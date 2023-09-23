@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm **Younes Makhlouf** 👋
 
-<!--
-**YounesMakhlouf/YounesMakhlouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/YounesMakhlouf/YounesMakhlouf/assets/91753449/e84aceff-25a3-4000-8e65-f88095ad5ca9" height="300" width="300">
 
-Here are some ideas to get you started:
+<h3>A passionate software engineer from Tunisia with a knack for solving complex problems and a love for clean, efficient code.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I enjoy exploring new technologies and collaborating on innovative projects.
+- 🌱 I’m currently a Frontend Web developer.
+- 🎮 When I'm not coding, you can find me pursuing my other interests in football and gaming.
+- 💞️ I’m looking to collaborate on interesting and sophisticated projects
+- 📫 How to reach me: younes.makhlouf@insat.ucar.tn  
+  
+Let's connect and build something amazing together!
