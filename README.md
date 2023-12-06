@@ -1,7 +1,7 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sriracha&size=30&duration=4500&pause=1000&color=61D9FA&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Younes+Makhlouf;Your+favourite+Engineer;I+love+learning+new+things+...;...+and+creating+creative+projects;Let's+build+greatness+together+%F0%9F%92%9E%EF%B8%8F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sriracha&size=33&duration=4500&pause=1000&repeat=false&color=61D9FA&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Younes+Makhlouf" alt="Hi, I am Younes Makhlouf"/></a>
 </h1>
-<h3 align="center">A passionate software engineer from Tunisia, driven by a curiosity for solving complex problems and a love for crafting clean, efficient code</h3>
+<h3 align="center">A passionate software engineer, driven by a curiosity for solving complex problems and a passion for crafting clean, efficient code</h3>
 
 <img align="right" src="https://github.com/YounesMakhlouf/YounesMakhlouf/assets/91753449/e84aceff-25a3-4000-8e65-f88095ad5ca9" height="300" width="300">
 
