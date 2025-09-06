@@ -11,7 +11,7 @@
 - 👨‍💻 I’m a **Software Engineering student at INSAT**, passionate about building **scalable web applications, data-driven systems, and cloud solutions**.  
 - 🚀 Hands-on experience with **.NET, Python, React, SQL, and cloud platforms**, applied through real-world projects and internships.  
 - 🌱 Currently sharpening my skills in **full-stack development, cloud computing, and algorithmic problem solving**.  
-- 🎮 Beyond code, I’m a **chess player and strategy gamer**, always searching for the *ultimate move* — a mindset I bring into my engineering work.  
+- 🎮 Beyond code, I’m a **chess player and strategy gamer**, always searching for the *ultimate move*; a mindset I bring into my engineering work.  
 - 💡 Open to **collaborating on innovative projects, open-source contributions, and internship opportunities**.  
 - 📫 Reach me at: **younes.makhlouf@insat.ucar.tn** or on [LinkedIn](https://www.linkedin.com/in/younesmakhlouf).
   
