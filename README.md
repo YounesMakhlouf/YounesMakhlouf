@@ -8,7 +8,7 @@
 
 
 
-- 👨‍💻 I’m a **Software Engineering student at INSAT**, passionate about building **scalable web applications, data-driven systems, and cloud solutions**.  
+- 👨‍💻 I’m a **Software Engineering student at INSAT**, passionate about building **scalable web applications, data-driven systems, and cloud solutions**. I enjoy understanding why things work, not just making them work. 
 - 🚀 Hands-on experience with **.NET, Python, React, SQL, and cloud platforms**, applied through real-world projects and internships.  
 - 🌱 Currently sharpening my skills in **full-stack development, cloud computing, and algorithmic problem solving**.  
 - 🎮 Beyond code, I’m a **chess player and strategy gamer**, always searching for the *ultimate move*; a mindset I bring into my engineering work.  
