@@ -1,25 +1,52 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sriracha&size=33&duration=4500&pause=1000&repeat=false&color=61D9FA&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Younes+Makhlouf" alt="Hi, I am Younes Makhlouf"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Sriracha&size=33&duration=4500&pause=1000&repeat=false&color=61D9FA&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Younes+Makhlouf" alt="Hi, I'm Younes Makhlouf"/>
 </h1>
 
-<h3 align="center">Software Engineering Student | Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">Software Engineering Student @ INSAT · Full-Stack & Data</h3>
 
 <img align="right" src="https://github.com/YounesMakhlouf/YounesMakhlouf/assets/91753449/e84aceff-25a3-4000-8e65-f88095ad5ca9" height="300" width="300">
 
-
-
-- 👨‍💻 I’m a **Software Engineering student at INSAT**, passionate about building **scalable web applications, data-driven systems, and cloud solutions**. I enjoy understanding why things work, not just making them work. 
-- 🚀 Hands-on experience with **.NET, Python, React, SQL, and cloud platforms**, applied through real-world projects and internships.  
-- 🌱 Currently sharpening my skills in **full-stack development, cloud computing, and algorithmic problem solving**.  
-- 🎮 Beyond code, I’m a **chess player and strategy gamer**, always searching for the *ultimate move*; a mindset I bring into my engineering work.  
-- 💡 Open to **collaborating on innovative projects, open-source contributions, and internship opportunities**.  
-- 📫 Reach me at: **younes.makhlouf@insat.ucar.tn** or on [LinkedIn](https://www.linkedin.com/in/younesmakhlouf).
-  
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> <a href="https://wikipedia.org/wiki/C_(langage)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://fr.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://learn.microsoft.com/fr-fr/dotnet/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/></a> <a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/YounesMakhlouf" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></p>
+### About me
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=younesmakhlouf&layout=compact&theme=transparent" alt="younesmakhlouf"/></p>
+- 👨‍💻 I build scalable web applications, data-driven systems and cloud solutions. I enjoy figuring out *why* things work, not just making them work.
+- 🛠️ Day-to-day with **.NET, Python, React, SQL**, and increasingly with **dbt** across **PostgreSQL, DuckDB, and ClickHouse**.
+- 🎮 Chess player and strategy gamer, the same instinct that draws me to engineering: looking for the move that makes everything else easier.
+- 💡 Open to opportunities and collaboration on interesting open-source work.
+- 📫 [LinkedIn](https://www.linkedin.com/in/younesmakhlouf/) · younes.makhlouf@insat.ucar.tn
+
+### Certifications
+
+- 🎓 [**Microsoft Certified: Fabric Data Engineer Associate (DP-700)**](https://learn.microsoft.com/api/credentials/share/fr-fr/YounesMakhlouf-7278/98B6CB2339B1966E?sharingId=26F36D1B5FE6ACF8)
+- 🎓 [**Microsoft Certified: Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/api/credentials/share/fr-fr/YounesMakhlouf-7278/C7381EA8D1E1C114?sharingId=26F36D1B5FE6ACF8)
+
+### Featured projects
+
+| Project | What it is |
+|---|---|
+| [**PFA**](https://github.com/YounesMakhlouf/PFA) | Flutter educational app for children with autism — auth, profiles, progress tracking |
+| [**StoryVerse**](https://github.com/YounesMakhlouf/StoryVerse) | Collaborative storytelling platform (PHP / Symfony) |
+| [**simulation-game**](https://github.com/YounesMakhlouf/simulation-game) | Turn-based grand-strategy game with AI opponents and an autonomous AI Judge |
+
+### Languages & tools
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Frameworks**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Data & tools**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+### Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=younesmakhlouf&layout=compact&theme=transparent" alt="Top languages"/>
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=younesmakhlouf)](https://git.io/streak-stats)
